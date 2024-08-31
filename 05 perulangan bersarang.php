@@ -6,6 +6,6 @@ while($i < 10){
     }
 
     $i++;
-
-    echo "<p><strong>By Amellya</strong>"
 }
+
+echo "<p><strong>By Amellya</strong>"
