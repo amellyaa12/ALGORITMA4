@@ -2,7 +2,7 @@
 // membuat array asosiatif
 $artikel = [
     "judul" => "Belajar Pemrograman PHP",
-    "penulis" => "meylisa eka putry",
+    "penulis" => "amellya",
     "view" => 128
 ];
 
