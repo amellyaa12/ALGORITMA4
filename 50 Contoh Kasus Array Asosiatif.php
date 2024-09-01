@@ -18,14 +18,16 @@
             border: 1px solid #ddd;
         }
         th {
-            background-color: #4CAF50;
-            color: white;
+            background-color: pink;
+            color: hitam;
         }
         tr:nth-child(even) {
             background-color: #f2f2f2;
+            
         }
         tr:hover {
             background-color: #ddd;
+            
         }
     </style>
 </head>
@@ -39,26 +41,26 @@ $customer = [
         "No" => 1,
         "name" => "amellya",
         "Alamat" => "Bundar",
-        "No. Telp" => "082345467879",
-        "Pekerjaan" => "PNS",
+        "No. Telp" => "085254165107",
+        "Pekerjaan" => "guru",
         "Gaji" => "5.000.000",
 
     ],
    
     [
         "No" => 2,
-        "name" => "Indra",
-        "Alamat" => "Kota lintang",
+        "name" => "zara",
+        "Alamat" => "Kampung selamat",
         "No. Telp" => "082245349098",
-        "Pekerjaan" => "Asistent manager",
+        "Pekerjaan" => " manager",
         "Gaji" => "7.000.000",
 
     ],
 
     [
         "No" => 3,
-        "name" => "agus",
-        "Alamat" => "Kp dalam",
+        "name" => "ayya",
+        "Alamat" => "kuala simpang",
         "No. Telp" => "082311678076",
         "Pekerjaan" => "Wirasswasta",
         "Gaji" => "15.000.000",
