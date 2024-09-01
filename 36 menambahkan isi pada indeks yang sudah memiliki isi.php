@@ -15,5 +15,5 @@ print_r($user);
 echo "</pre>";
 
 
-echo "<p><strong> By Amellya</strong>";
+echo "<p><strong>By Amellya</strong>";
 ?>
